@@ -1,0 +1,20 @@
+{
+    "berries": [
+        {"id": "001", "name": "Chery Berry", "price": 25, "url_image": "https://poketudo.com.br/app/pokedex/files/images/items/items/cheri-berry.png"}, 
+        {"id": "002", "name": "Chesto Berry", "price": 25, "url_image": "https://poketudo.com.br/app/pokedex/files/images/items/items/chesto-berry.png"}, 
+        {"id": "003", "name": "Rawst Berry", "price": 25, "url_image": "https://poketudo.com.br/app/pokedex/files/images/items/items/rawst-berry.png"}, 
+        {"id": "004", "name": "Pecha Berry", "price": 25, "url_image": "https://poketudo.com.br/app/pokedex/files/images/items/items/pecha-berry.png"}, 
+        {"id": "005", "name": "Aspear Berry", "price": 25, "url_image": "https://poketudo.com.br/app/pokedex/files/images/items/items/aspear-berry.png"}, 
+        {"id": "006", "name": "Leppa Berry", "price": 25, "url_image": "https://poketudo.com.br/app/pokedex/files/images/items/items/leppa-berry.png"}, 
+        {"id": "007", "name": "Oran Berry", "price": 25, "url_image": "https://poketudo.com.br/app/pokedex/files/images/items/items/oran-berry.png"}, 
+        {"id": "008", "name": "Persim Berry", "price": 25, "url_image": "https://poketudo.com.br/app/pokedex/files/images/items/items/persim-berry.png"}, 
+        {"id": "009", "name": "Lum Berry", "price": 25, "url_image": "https://poketudo.com.br/app/pokedex/files/images/items/items/lum-berry.png"},
+        
+        {"id": "010", "name": "Sitrus Berry", "price": 25, "url_image": "https://poketudo.com.br/app/pokedex/files/images/items/items/sitrus-berry.png"}, 
+        {"id": "011", "name": "Figy Berry", "price": 25, "url_image": "https://poketudo.com.br/app/pokedex/files/images/items/items/figy-berry.png"}, 
+        {"id": "012", "name": "Wiki Berry", "price": 25, "url_image": "https://poketudo.com.br/app/pokedex/files/images/items/items/wiki-berry.png"},
+        {"id": "013", "name": "Mago Berry", "price": 25, "url_image": "https://poketudo.com.br/app/pokedex/files/images/items/items/mago-berry.png"}, 
+        {"id": "014", "name": "Aguav Berry", "price": 25, "url_image": "https://poketudo.com.br/app/pokedex/files/images/items/items/aguav-berry.png"}, 
+        {"id": "015", "name": "Iapapa Berry", "price": 25, "url_image": "https://poketudo.com.br/app/pokedex/files/images/items/items/iapapa-berry.png"}
+    ]
+}
