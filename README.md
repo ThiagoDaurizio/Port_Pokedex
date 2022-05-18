@@ -3,7 +3,7 @@
 
 ## Available Scripts
 
-- Surge: daurizio-pokedex.surge.sh
+Link do Surge: http://daurizio-pokedex.surge.sh
 
 ### Descrição:
 
